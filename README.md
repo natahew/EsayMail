@@ -3,7 +3,7 @@ This is a simple Email Wapper
 
 # Example
 
-easy::SmtpMailer smtp(
+	easy::SmtpMailer smtp(
 		"smtp.163.com",
 		25,
 		"username@163.com",
